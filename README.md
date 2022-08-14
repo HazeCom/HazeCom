@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bivek Rai
-- 👀 I’m interested in ->Java
-- 🌱 I’m currently learning ->Java
-- 💞️ I’m looking to collaborate on ->Java related project
-- 📫 How to reach me ->raibivek58@gmail.com
+* 👋 Hi, I’m @Bivek Rai
+* 👀 I’m interested in ->Java
+* 🌱 I’m currently learning ->Java
+* 💞️ I’m looking to collaborate on ->Java related project
+* 📫 How to reach me -> [link](raibivek58@gmail.com)
 
 <!---
 HazeCom/HazeCom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
