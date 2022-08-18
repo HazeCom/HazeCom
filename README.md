@@ -8,13 +8,16 @@
 
 ## Few thing about me
 
-* 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and exploring the coding world
 
-* 💞️ I’m looking to collaborate on Java related project
+- 💞️ I’m looking to collaborate on Java related project
 
-* 📫 How to reach me **raibivek58@gmail.com**
+- 📫 How to reach me **raibivek58@gmail.com**
 
 <br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/bivek-rai-61165222a/" target="blank"><img align="center"
@@ -28,7 +31,37 @@
       alt="_._.adam._" height="30" width="40" /></a> 
 </p>
 
+<br>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" />
+  </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> 
+  </a> 
+</p>
+      
 ![HazeCom GitHub stats](https://github-readme-stats.vercel.app/api?username=HazeCom&theme=dark&show_icons=true)
     
 <a href="https://github.com/HazeCom?tab=repositories">
