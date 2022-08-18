@@ -10,7 +10,7 @@
 
 ## Few thing's about me
 
-- 🌱 I’m currently learning Java and exploring the coding world
+- 🌱 I’m currently learning Java and MySQL
 
 - 💞️ I’m looking to collaborate on Java related project
 
@@ -69,18 +69,20 @@
 
 <br>
 
-<h2 align = "center" >Statistical Data :- </h2>
+<div align="center">
+<h3>Statistical Data</h3>
+ <hr width="25%">
+</div>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=hazecom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="hazecom" />
+</p>
+
+<br>   
 
 <p align = "center" ><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hazecom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="hazecom" 
     bg_color=#808080/>
-</p>
-
-<br>   
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=hazecom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="hazecom" />
 </p>
 
 <br>
