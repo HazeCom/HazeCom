@@ -62,11 +62,22 @@
       alt="nodejs" width="40" height="40" /> 
   </a> 
 </p>
-      
-![HazeCom GitHub stats](https://github-readme-stats.vercel.app/api?username=HazeCom&theme=dark&show_icons=true)
-    
-<a href="https://github.com/HazeCom?tab=repositories">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazeCom&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Bivek's favorite languages" />
-</a>
+
+<br>
+<h3>Statistical Data :-</h3>
+
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hazecom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="hazecom" 
+    bg_color=#808080/>
+</p>
+
+<br>   
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api? username=hazecom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff& repo=convoychat"
+    alt="hazecom" />
+</p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazecom&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hazecom" /></p>
