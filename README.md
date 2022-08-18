@@ -23,13 +23,13 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/bivek-rai-61165222a/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a> 
+      height="30" width="40" /></a> 
   <a href="https://www.hackerrank.com/raibivek58" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a> 
+      height="30" width="40" /></a> 
   <a href="https://www.instagram.com/bivekrai.58/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a> 
+      height="30" width="40" /></a> 
 </p>
 
 <br>
@@ -61,13 +61,17 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> 
   </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> 
+  </a> 
 </p>
 
 <br>
 
-## Statistical Data :- ##
+<h2 align = "center" >Statistical Data :- </h2>
 
-<p><img align="center"
+<p align = "center" ><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hazecom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="hazecom" 
     bg_color=#808080/>
@@ -75,10 +79,10 @@
 
 <br>   
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazecom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=hazecom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="hazecom" />
 </p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazecom&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hazecom" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=hazecom&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hazecom" /></p>
