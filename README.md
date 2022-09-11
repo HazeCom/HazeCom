@@ -1,5 +1,6 @@
 <h1 align = "center">👋 Hi, I’m Bivek Rai,</h1>
-<h3 align = "center"> Student at Masai School</h3>
+<h2 align = "center">About Me</h2>
+<h3 align = "center"> I am inexperienced but an enthusiastic backend developer, new to coding but high in determination. Highly motivated and a quick learner seeking to continue improving my coding skills as a back-end developer.</h3>
 
 <h3 align = "center">Know about me</h3>
 <h4 align = "center">https://bivekrai.netlify.app/</h4>
